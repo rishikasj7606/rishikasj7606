@@ -25,9 +25,27 @@ I am a **B.Tech student in Artificial Intelligence and Data Science** at Amrita 
 
 - 🤖 Currently interning at **Anvi Robotics**, designing and deploying end-to-end AI chatbot solutions using Python, LangChain, and TensorFlow
 - 🔬 Research interests: Computer Vision, NLP, Big Data, and Autonomous Systems
-- 📄 Co-authored a research paper on **Military Surveillance and Landmine Detection with Safe Path Planning**
+- 📄 Published researcher at **IEEE** — Military Surveillance & Landmine Detection
 - 🌱 Actively seeking internship opportunities in AI & Software Engineering
 - 📍 Srikalahasti, Andhra Pradesh, India
+
+---
+
+## 📰 Publication
+
+<table>
+  <tr>
+    <td width="60">📄</td>
+    <td>
+      <b>Military Surveillance and Landmine Detection with Safe Path Planning</b><br/>
+      <i>Somavaram J Rishika et al.</i><br/>
+      Published on <b>IEEE Xplore</b><br/>
+      <a href="https://ieeexplore.ieee.org/document/11392863/">🔗 View on IEEE Xplore</a>
+    </td>
+  </tr>
+</table>
+
+> Research focused on intelligent autonomous surveillance systems with safe path planning algorithms for landmine detection — combining computer vision and autonomous navigation.
 
 ---
 
@@ -60,15 +78,28 @@ I am a **B.Tech student in Artificial Intelligence and Data Science** at Amrita 
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [🏭 Industrial CO₂ Monitoring](https://github.com/rishikasj7606/industrial-co2-streamlit) | Industrial carbon emission monitoring app with blockchain integration | Python, Streamlit, Deep Learning |
-| [☀️ Solar PV Dashboard](https://github.com/rishikasj7606/solar-pv-dashboard) | Solar photovoltaic performance monitoring dashboard | Python |
-| [🗜️ Image Compression Studio](https://github.com/rishikasj7606/image-compression-studio) | Importance-aware image compression for robotic vision | JavaScript |
-| [🤖 Grid07 AI Intern](https://github.com/rishikasj7606/grid07-ai-intern) | AI/ML internship project repository | Python |
-| [⚡ HPC Project](https://github.com/rishikasj7606/A-15-HPC-Project) | High-Performance Computing research project | Jupyter Notebook |
+### ✅ Completed & On GitHub
 
-> **Other research domains:** Autonomous vehicle simulation (CARLA + ROS2), real-time heatwave analysis (Apache Spark & Hadoop), stuttering detection (CNN/BiLSTM)
+| Project | Description | Tech Stack | Repo |
+|---|---|---|---|
+| 🏭 Industrial CO₂ Monitoring | Industrial carbon emission monitoring app with blockchain integration | Python, Streamlit, Deep Learning | [View](https://github.com/rishikasj7606/industrial-co2-streamlit) |
+| ☀️ Solar PV Dashboard | Solar photovoltaic performance monitoring dashboard | Python | [View](https://github.com/rishikasj7606/solar-pv-dashboard) |
+| 🗜️ Image Compression Studio | Importance-aware image compression for robotic vision | JavaScript | [View](https://github.com/rishikasj7606/image-compression-studio) |
+| 🤖 Grid07 AI Intern | AI/ML internship project repository | Python | [View](https://github.com/rishikasj7606/grid07-ai-intern) |
+| ⚡ HPC Project | High-Performance Computing research project | Jupyter Notebook | [View](https://github.com/rishikasj7606/A-15-HPC-Project) |
+
+---
+
+### 🔄 Coming Soon to GitHub
+
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| 🚗 Autonomous Vehicle Simulation | Self-driving car simulation with obstacle detection and safe path planning | CARLA, ROS2, Python | 🔜 Coming Soon |
+| 🌡️ Heatwave Analysis | Real-time heatwave pattern analysis using distributed big data processing | Apache Spark, Hadoop, Python | 🔜 Coming Soon |
+| 🗣️ Stuttering Detection | Speech disorder detection using deep learning sequence models | CNN, BiLSTM, Python | 🔜 Coming Soon |
+| 🪖 Military Surveillance & Landmine Detection | Autonomous surveillance with safe path planning for landmine detection *(IEEE Published)* | Computer Vision, ROS2, Python | 🔜 Coming Soon |
+
+> 📌 All upcoming projects will be uploaded to this GitHub profile shortly. **Star ⭐ this profile to stay updated!**
 
 ---
 
@@ -128,7 +159,8 @@ B.Tech in Artificial Intelligence and Data Science
 ---
 
 <p align="center">
-  <i>Open to AI & Software internship opportunities — feel free to connect!</i><br/>
+  <i>Open to AI & Software internship opportunities — feel free to connect!</i><br/><br/>
   <a href="https://www.linkedin.com/in/rishika-somavaram-j">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:rishikasomavaramj7606@gmail.com">Email</a>
+  <a href="mailto:rishikasomavaramj7606@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://ieeexplore.ieee.org/document/11392863/">IEEE Publication</a>
 </p>
