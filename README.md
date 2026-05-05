@@ -84,9 +84,9 @@ I am a **B.Tech student in Artificial Intelligence and Data Science** at Amrita 
 |---|---|---|---|
 | 🏭 Industrial CO₂ Monitoring | Industrial carbon emission monitoring app with blockchain integration | Python, Streamlit, Deep Learning | [View](https://github.com/rishikasj7606/industrial-co2-streamlit) |
 | ☀️ Solar PV Dashboard | Solar photovoltaic performance monitoring dashboard | Python | [View](https://github.com/rishikasj7606/solar-pv-dashboard) |
-| 🗜️ Image Compression Studio | Importance-aware image compression for robotic vision | JavaScript | [View](https://github.com/rishikasj7606/image-compression-studio) |
+| 🗜️ Importance-Aware Image Compression & Reconstruction | Importance-aware image compression and reconstruction for transmission | JavaScript | [View](https://github.com/rishikasj7606/Importance-Aware-Image-Compression-Reconstruction-) |
 | 🤖 Grid07 AI Intern | AI/ML internship project repository | Python | [View](https://github.com/rishikasj7606/grid07-ai-intern) |
-| ⚡ HPC Project | High-Performance Computing research project | Jupyter Notebook | [View](https://github.com/rishikasj7606/A-15-HPC-Project) |
+| ⚡ HPC-Parallel-Computing-Project| High-Performance Computing research project | Jupyter Notebook | [View](https://github.com/rishikasj7606/HPC-Parallel-Computing-Project) |
 
 ---
 
