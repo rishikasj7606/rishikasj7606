@@ -52,7 +52,7 @@ I am a **B.Tech student in Artificial Intelligence and Data Science** at Amrita 
 ## 💼 Internship Experience
 
 ### 🤖 Artificial Intelligence Intern — Anvi Robotics
-**April 2026 – Present | Hyderabad**
+**April 2026 – June 2026 | Hyderabad**
 
 - Designed and deployed end-to-end AI chatbot solutions using **Python, LangChain**, and **TensorFlow**
 - Applied **NLP techniques** including intent recognition and context-aware response generation
